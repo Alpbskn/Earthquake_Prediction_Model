@@ -1,0 +1,512 @@
+{
+    "MARMARA_DENIZI": {
+        "lat_min": 40.2,
+        "lat_max": 41.1,
+        "lon_min": 26.8,
+        "lon_max": 29.1
+    },
+    "EGE_DENIZI": {
+        "lat_min": 37.0,
+        "lat_max": 40.2,
+        "lon_min": 25.0,
+        "lon_max": 27.2
+    },
+    "AKDENIZ": {
+        "lat_min": 35.0,
+        "lat_max": 37.0,
+        "lon_min": 27.2,
+        "lon_max": 36.2
+    },
+    "KARADENIZ": {
+        "lat_min": 41.1,
+        "lat_max": 42.5,
+        "lon_min": 27.5,
+        "lon_max": 41.5
+    },
+    "ADANA": {
+        "lat_min": 36.492,
+        "lat_max": 37.458,
+        "lon_min": 34.600,
+        "lon_max": 36.330
+    },
+    "ADIYAMAN": {
+        "lat_min": 37.452,
+        "lat_max": 38.161,
+        "lon_min": 37.512,
+        "lon_max": 38.579
+    },
+    "AFYONKARAHISAR": {
+        "lat_min": 38.138,
+        "lat_max": 39.113,
+        "lon_min": 29.800,
+        "lon_max": 31.590
+    },
+    "AĞRI": {
+        "lat_min": 39.105,
+        "lat_max": 39.990,
+        "lon_min": 42.280,
+        "lon_max": 44.130
+    },
+    "AMASYA": {
+        "lat_min": 40.387,
+        "lat_max": 41.075,
+        "lon_min": 35.228,
+        "lon_max": 36.365
+    },
+    "ANKARA": {
+        "lat_min": 39.700,
+        "lat_max": 40.930,
+        "lon_min": 31.300,
+        "lon_max": 33.680
+    },
+    "ANTALYA": {
+        "lat_min": 36.285,
+        "lat_max": 37.588,
+        "lon_min": 29.300,
+        "lon_max": 32.480
+    },
+    "ARTVİN": {
+        "lat_min": 40.955,
+        "lat_max": 41.558,
+        "lon_min": 41.520,
+        "lon_max": 42.370
+    },
+    "AYDIN": {
+        "lat_min": 37.440,
+        "lat_max": 38.188,
+        "lon_min": 27.230,
+        "lon_max": 28.990
+    },
+    "BALIKESİR": {
+        "lat_min": 39.200,
+        "lat_max": 40.300,
+        "lon_min": 26.700,
+        "lon_max": 28.960
+    },
+    "BİLECİK": {
+        "lat_min": 39.975,
+        "lat_max": 40.568,
+        "lon_min": 29.720,
+        "lon_max": 30.688
+    },
+    "BİNGÖL": {
+        "lat_min": 38.699,
+        "lat_max": 39.658,
+        "lon_min": 40.098,
+        "lon_max": 41.318
+    },
+    "BİTLİS": {
+        "lat_min": 38.123,
+        "lat_max": 38.970,
+        "lon_min": 41.550,
+        "lon_max": 42.780
+    },
+    "BOLU": {
+        "lat_min": 40.380,
+        "lat_max": 41.090,
+        "lon_min": 31.040,
+        "lon_max": 32.520
+    },
+    "BURDUR": {
+        "lat_min": 37.215,
+        "lat_max": 37.912,
+        "lon_min": 29.750,
+        "lon_max": 30.920
+    },
+    "BURSA": {
+        "lat_min": 39.768,
+        "lat_max": 40.580,
+        "lon_min": 28.170,
+        "lon_max": 30.090
+    },
+    "ÇANAKKALE": {
+        "lat_min": 39.615,
+        "lat_max": 40.450,
+        "lon_min": 25.640,
+        "lon_max": 27.436
+    },
+    "ÇANKIRI": {
+        "lat_min": 40.380,
+        "lat_max": 41.260,
+        "lon_min": 32.620,
+        "lon_max": 34.130
+    },
+    "ÇORUM": {
+        "lat_min": 40.110,
+        "lat_max": 41.280,
+        "lon_min": 34.280,
+        "lon_max": 35.920
+    },
+    "DENİZLİ": {
+        "lat_min": 37.465,
+        "lat_max": 38.440,
+        "lon_min": 28.640,
+        "lon_max": 30.140
+    },
+    "DİYARBAKIR": {
+        "lat_min": 37.518,
+        "lat_max": 38.740,
+        "lon_min": 40.370,
+        "lon_max": 41.940
+    },
+    "EDİRNE": {
+        "lat_min": 40.550,
+        "lat_max": 41.780,
+        "lon_min": 26.030,
+        "lon_max": 27.020
+    },
+    "ELAZIĞ": {
+        "lat_min": 38.300,
+        "lat_max": 39.340,
+        "lon_min": 38.300,
+        "lon_max": 40.280
+    },
+    "ERZİNCAN": {
+        "lat_min": 39.020,
+        "lat_max": 40.070,
+        "lon_min": 38.680,
+        "lon_max": 40.470
+    },
+    "ERZURUM": {
+        "lat_min": 39.900,
+        "lat_max": 40.940,
+        "lon_min": 40.150,
+        "lon_max": 42.350
+    },
+    "ESKİŞEHİR": {
+        "lat_min": 39.350,
+        "lat_max": 40.160,
+        "lon_min": 30.250,
+        "lon_max": 32.040
+    },
+    "GAZİANTEP": {
+        "lat_min": 36.628,
+        "lat_max": 37.558,
+        "lon_min": 36.730,
+        "lon_max": 38.140
+    },
+    "GİRESUN": {
+        "lat_min": 40.213,
+        "lat_max": 41.080,
+        "lon_min": 37.764,
+        "lon_max": 39.130
+    },
+    "GÜMÜŞHANE": {
+        "lat_min": 40.209,
+        "lat_max": 40.960,
+        "lon_min": 38.845,
+        "lon_max": 39.813
+    },
+    "HAKKARİ": {
+        "lat_min": 36.972,
+        "lat_max": 37.583,
+        "lon_min": 43.724,
+        "lon_max": 44.834
+    },
+    "HATAY": {
+        "lat_min": 35.812,
+        "lat_max": 36.604,
+        "lon_min": 35.780,
+        "lon_max": 36.670
+    },
+    "ISPARTA": {
+        "lat_min": 37.714,
+        "lat_max": 38.357,
+        "lon_min": 30.340,
+        "lon_max": 31.350
+    },
+    "MERSİN": {
+        "lat_min": 36.090,
+        "lat_max": 37.150,
+        "lon_min": 32.450,
+        "lon_max": 35.090
+    },
+    "İSTANBUL": {
+        "lat_min": 40.750,  
+        "lat_max": 41.630,
+        "lon_min": 27.900,
+        "lon_max": 29.950
+    },
+    "İZMİR": {
+        "lat_min": 37.850,
+        "lat_max": 39.300,
+        "lon_min": 26.150,
+        "lon_max": 28.200
+    },
+    "KARS": {
+        "lat_min": 40.070,
+        "lat_max": 41.090,
+        "lon_min": 42.100,
+        "lon_max": 43.790
+    },
+    "KASTAMONU": {
+        "lat_min": 41.060,
+        "lat_max": 42.080,
+        "lon_min": 32.780,
+        "lon_max": 34.590
+    },
+    "KAYSERİ": {
+        "lat_min": 37.570,
+        "lat_max": 39.160,
+        "lon_min": 34.930,
+        "lon_max": 36.940
+    },
+    "KIRKLARELİ": {
+        "lat_min": 41.137,
+        "lat_max": 42.050,
+        "lon_min": 26.633,
+        "lon_max": 28.113
+    },
+    "KIRŞEHİR": {
+        "lat_min": 38.850,
+        "lat_max": 39.480,
+        "lon_min": 33.520,
+        "lon_max": 34.420
+    },
+    "KOCAELİ": {
+        "lat_min": 40.500,
+        "lat_max": 41.205,
+        "lon_min": 29.350,
+        "lon_max": 30.370
+    },
+    "KONYA": {
+        "lat_min": 36.410,
+        "lat_max": 39.160,
+        "lon_min": 31.230,
+        "lon_max": 34.500
+    },
+    "KÜTAHYA": {
+        "lat_min": 38.770,
+        "lat_max": 39.580,
+        "lon_min": 29.130,
+        "lon_max": 30.320
+    },
+    "MALATYA": {
+        "lat_min": 37.820,
+        "lat_max": 39.050,
+        "lon_min": 37.740,
+        "lon_max": 39.200
+    },
+    "MANİSA": {
+        "lat_min": 38.270,
+        "lat_max": 39.360,
+        "lon_min": 27.260,
+        "lon_max": 29.150
+    },
+    "KAHRAMANMARAŞ": {
+        "lat_min": 37.120,
+        "lat_max": 38.630,
+        "lon_min": 36.250,
+        "lon_max": 37.670
+    },
+    "MARDİN": {
+        "lat_min": 36.930,
+        "lat_max": 37.550,
+        "lon_min": 40.260,
+        "lon_max": 42.370
+    },
+    "MUĞLA": {
+        "lat_min": 36.290,
+        "lat_max": 37.580,
+        "lon_min": 27.220,
+        "lon_max": 29.420
+    },
+    "MUŞ": {
+        "lat_min": 38.720,
+        "lat_max": 39.500,
+        "lon_min": 41.060,
+        "lon_max": 42.300
+    },
+    "NEVŞEHİR": {
+        "lat_min": 38.320,
+        "lat_max": 39.220,
+        "lon_min": 34.280,
+        "lon_max": 35.140
+    },
+    "NİĞDE": {
+        "lat_min": 37.250,
+        "lat_max": 38.220,
+        "lon_min": 34.080,
+        "lon_max": 35.250
+    },
+    "ORDU": {
+        "lat_min": 40.310,
+        "lat_max": 41.180,
+        "lon_min": 36.520,
+        "lon_max": 38.120
+    },
+    "RİZE": {
+        "lat_min": 40.520,
+        "lat_max": 41.280,
+        "lon_min": 40.340,
+        "lon_max": 41.280
+    },
+    "SAKARYA": {
+        "lat_min": 40.470,
+        "lat_max": 41.130,
+        "lon_min": 29.840,
+        "lon_max": 31.160
+    },
+    "SAMSUN": {
+        "lat_min": 40.850,
+        "lat_max": 41.750,
+        "lon_min": 35.580,
+        "lon_max": 37.150
+    },
+    "SİİRT": {
+        "lat_min": 37.520,
+        "lat_max": 38.170,
+        "lon_min": 41.570,
+        "lon_max": 42.540
+    },
+    "SİNOP": {
+        "lat_min": 41.200,
+        "lat_max": 42.060,
+        "lon_min": 34.240,
+        "lon_max": 35.260
+    },
+    "SİVAS": {
+        "lat_min": 38.700,
+        "lat_max": 40.160,
+        "lon_min": 35.950,
+        "lon_max": 38.700
+    },
+    "TEKİRDAĞ": {
+        "lat_min": 40.590,
+        "lat_max": 41.380,
+        "lon_min": 26.650,
+        "lon_max": 28.190
+    },
+    "TOKAT": {
+        "lat_min": 39.800,
+        "lat_max": 40.900,
+        "lon_min": 35.780,
+        "lon_max": 37.390
+    },
+    "TRABZON": {
+        "lat_min": 40.500,
+        "lat_max": 41.110,
+        "lon_min": 39.150,
+        "lon_max": 40.360
+    },
+    "TUNCELİ": {
+        "lat_min": 38.720,
+        "lat_max": 39.560,
+        "lon_min": 38.870,
+        "lon_max": 40.180
+    },
+    "ŞANLIURFA": {
+        "lat_min": 36.640,
+        "lat_max": 37.960,
+        "lon_min": 37.790,
+        "lon_max": 40.200
+    },
+    "UŞAK": {
+        "lat_min": 38.402,
+        "lat_max": 38.982,
+        "lon_min": 28.930,
+        "lon_max": 29.940
+    },
+    "VAN": {
+        "lat_min": 37.810,
+        "lat_max": 39.100,
+        "lon_min": 42.400,
+        "lon_max": 44.300
+    },
+    "YOZGAT": {
+        "lat_min": 39.120,
+        "lat_max": 40.170,
+        "lon_min": 34.280,
+        "lon_max": 36.140
+    },
+    "ZONGULDAK": {
+        "lat_min": 41.020,
+        "lat_max": 41.680,
+        "lon_min": 31.480,
+        "lon_max": 32.720
+    },
+    "AKSARAY": {
+        "lat_min": 38.130,
+        "lat_max": 38.790,
+        "lon_min": 33.220,
+        "lon_max": 34.420
+    },
+    "BAYBURT": {
+        "lat_min": 40.060,
+        "lat_max": 40.460,
+        "lon_min": 39.520,
+        "lon_max": 40.220
+    },
+    "KARAMAN": {
+        "lat_min": 36.640,
+        "lat_max": 37.440,
+        "lon_min": 32.470,
+        "lon_max": 33.940
+    },
+    "KIRIKKALE": {
+        "lat_min": 39.280,
+        "lat_max": 40.160,
+        "lon_min": 33.270,
+        "lon_max": 34.180
+    },
+    "BATMAN": {
+        "lat_min": 37.680,
+        "lat_max": 38.300,
+        "lon_min": 41.100,
+        "lon_max": 41.960
+    },
+    "ŞIRNAK": {
+        "lat_min": 37.180,
+        "lat_max": 37.730,
+        "lon_min": 41.990,
+        "lon_max": 43.330
+    },
+    "BARTIN": {
+        "lat_min": 41.370,
+        "lat_max": 41.880,
+        "lon_min": 32.330,
+        "lon_max": 32.990
+    },
+    "ARDAHAN": {
+        "lat_min": 40.940,
+        "lat_max": 41.580,
+        "lon_min": 42.280,
+        "lon_max": 43.290
+    },
+    "IĞDIR": {
+        "lat_min": 39.740,
+        "lat_max": 40.090,
+        "lon_min": 43.330,
+        "lon_max": 44.830
+    },
+    "YALOVA": {
+        "lat_min": 40.500,
+        "lat_max": 40.780,
+        "lon_min": 28.720,
+        "lon_max": 29.400
+    },
+    "KARABÜK": {
+        "lat_min": 40.970,
+        "lat_max": 41.550,
+        "lon_min": 32.280,
+        "lon_max": 33.070
+    },
+    "KİLİS": {
+        "lat_min": 36.680,
+        "lat_max": 36.940,
+        "lon_min": 36.880,
+        "lon_max": 37.530
+    },
+    "OSMANİYE": {
+        "lat_min": 36.920,
+        "lat_max": 37.450,
+        "lon_min": 35.870,
+        "lon_max": 36.400
+    },
+    "DÜZCE": {
+        "lat_min": 40.630,
+        "lat_max": 41.090,
+        "lon_min": 30.850,
+        "lon_max": 31.960
+    }
+} 
