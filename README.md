@@ -152,6 +152,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **Email:** example@example.com
-- **LinkedIn:** [My Profile](https://linkedin.com/in/example)
+- **Email:** alpbaskan5@gmail.com
+- **LinkedIn:** [My Profile](https://linkedin.com/in/alpbaskan)
 
