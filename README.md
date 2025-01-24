@@ -145,11 +145,6 @@ To contribute to this project:
 
 ---
 
-## License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
-
----
-
 ## Contact
 For any questions or suggestions, feel free to reach out:
 - **Email:** alpbaskan5@gmail.com
